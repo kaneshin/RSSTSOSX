@@ -15,7 +15,7 @@ channel1,channel2
 
 ## License
 
-[The MIT License (MIT)](http://kaneshin.mit-license.org/)
+This software is licensed under the GPL
 
 ## Author
 
